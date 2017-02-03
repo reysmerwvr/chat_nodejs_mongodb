@@ -7,7 +7,7 @@ users = {};
 
 server.listen(3000);
 
-mongoose.connect('mongodb://localhost/chat', function(err){
+mongoose.connect('mongodb://192.168.15.14/chat', function(err){
 	if(err){
 		console.log(err);
 	} else{
