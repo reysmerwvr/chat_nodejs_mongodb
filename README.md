@@ -20,8 +20,7 @@ Node Chat uses a number of open source projects to work properly:
 * [Twitter Bootstrap] - Great UI boilerplate for modern web apps
 * [Node.js] - Evented I/O for the backend
 * [Express] - Fast node.js network app framework [@tjholowaychuk]
-* [Socket.io] - Featuring The Fastest And Most Reliable Real-Time Engine 
-* [jQuery] - Fast, small, and feature-rich JavaScript library
+* [Socket.io] - Featuring The Fastest And Most Reliable Real-Time Engine
 
 And of course Node Chat itself is open source with a [public repository][node-chat]
  on GitHub.
@@ -66,7 +65,6 @@ And of course Node Chat itself is open source with a [public repository][node-ch
     [Node.js]: <http://nodejs.org>
     [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
     [Socket.io]: <http://socket.io/>
-    [jQuery]: <http://jquery.com>
     [@ValleReysmer]: <http://twitter.com/ValleReysmer>
     [Express]: <http://expressjs.com>
     
