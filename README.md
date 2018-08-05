@@ -49,22 +49,20 @@ And of course Node Chat itself is open source with a [public repository][node-ch
  
  ### Todos
  ***
-  - Write Tests
-  - Rethink Github Save
-  - Add Code Comments
-  - Add Night Mode
+  - Write tests
+  - Add code comments
  
  ### License
  ***
- Node Chat is (c) 2015- 2016 Reysmer Valle ([@ValleReysmer]) and may be freely distributed under the [MIT license](http://opensource.org/licenses/MIT). See the `MIT-LICENSE` file.
+ Node Chat is (c) 2015- 2016 Reysmer Valle ([@ValleReysmer]) and may be freely distributed under the [MIT license](https://github.com/reysmerwvr/chat_nodejs_mongodb/blob/master/LICENSE.md). See the `MIT-LICENSE` file.
  
  [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
  
-    [node-chat]: <https://github.com/reysmerwvr/chat_nodejs_mongodb>
-    [git-repo-url]: <https://github.com/reysmerwvr/chat_nodejs_mongodb.git>
-    [Node.js]: <http://nodejs.org>
-    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-    [Socket.io]: <http://socket.io/>
-    [@ValleReysmer]: <http://twitter.com/ValleReysmer>
-    [Express]: <http://expressjs.com>
+[node-chat]:https://github.com/reysmerwvr/chat_nodejs_mongodb
+[git-repo-url]:https://github.com/reysmerwvr/chat_nodejs_mongodb.git
+[Node.js]:http://nodejs.org
+[Twitter Bootstrap]:http://twitter.github.com/bootstrap/
+[Socket.io]:http://socket.io/
+[@ValleReysmer]:http://twitter.com/ValleReysmer
+[Express]:http://expressjs.com
     
